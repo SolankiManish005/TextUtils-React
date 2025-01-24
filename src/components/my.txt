@@ -1,1 +1,17 @@
 "homepage": "https://SolankiManish005.github.io/TextUtils-React",
+
+
+git init
+git add -A
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/[username]/[repo_name].git # Replace with your username and repo URL
+git push -u origin main
+
+
+git init
+git add -A
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://SolankiManish005.github.io/TextUtils-React.git
+git push -u origin main
